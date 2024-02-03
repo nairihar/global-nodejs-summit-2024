@@ -1,5 +1,6 @@
 # `Global Node.js Summit 2024 | Online`
 Topic: **A Deep Dive into Node.js Multithreading**
+
 Date: Online conference on February 20-21, 2024
 
 [The link to my talk is on events.geekle.us.](https://events.geekle.us/nodejs24/)
